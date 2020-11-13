@@ -1,3 +1,118 @@
 body {
-  background: rgb(0, 191, 255);
+  background: rgb(245, 245, 220);
+
+}
+p {
+  color: rgb(0, 0, 0);
+  font-family:'Open Sans', sans-serif;
+  text-align: center;
+  font-size: 3em;
+}
+.Titre {
+  background:rgb(0, 0, 0);
+  min-height: 40vh;
+  background-size: cover;
+  color: rgb(255, 255, 255);
+  font-family: 'Archivo Black', sans-serif;
+  text-align: center;
+  font-size: 5.5em;
+  padding-top: 150px;
+
+}
+.Titre2 {
+  color: rgb(0, 0, 0);
+  font-family:'Open Sans', sans-serif;
+  text-align: center;
+  font-size: 4.5em;
+}
+h2 {
+  color: rgb(0, 0, 0);
+  font-family:'Open Sans', sans-serif;
+  text-align: center;
+  font-size: 4.5em;
+}
+
+h3 {
+  color: rgb(0, 0, 0);
+  font-family:'Open Sans', sans-serif;
+  text-align: center;
+  font-size: 4.5em;
+ }
+
+.Fable1 {
+  float: left;
+  text-align: center;
+  width: 50%;
+  margin : 0;
+}
+
+.Fable2 {
+  float: right;
+  text-align: center;
+  width: 50%;
+  margin : 0;
+}
+
+.Fable3 {
+  float: left;
+  text-align: center;
+  width: 50%;
+  margin : 0;
+}
+
+.image1 {
+  float: right;
+  width: 1200px;
+  margin-right: 500px;
+
+}
+.image2 {
+  float: left;
+  width: 800px;
+  margin-left: 700px;
+}
+
+.image3 {
+  float: right;
+  width: 1200px;
+  margin-right: 450px;
+}
+
+.Bloc1 {
+  height: 1000px;
+  margin-bottom: 200px;
+  margin-top: 200px;
+}
+
+.Bloc2 {
+  height: 1200px;
+  margin-bottom: 200px;
+}
+
+.Bloc3 {
+  height: 1800px;
+  margin-bottom: 200px;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+
+}
+
+.icon {
+  height: 200px;
+}
+
+li {
+  margin-left: 200px;
+  margin-right: 300px;
+
+}
+
+footer{
+  background-color: rgb(255, 255, 255);
+  font-family:'Open Sans', sans-serif;
+
 }
